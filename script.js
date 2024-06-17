@@ -3,6 +3,7 @@ let songlist =
     'Cruel Summer', 
     'Barbie World',
     'Vampire',
+    'Please Please Please'
     'Espresso',
     'Training Season'
   ];
